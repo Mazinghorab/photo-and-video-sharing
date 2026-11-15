@@ -4,5 +4,4 @@ __pycache__
 # root
 .env
 .venv
-.python-version
 test.db
